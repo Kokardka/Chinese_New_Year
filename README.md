@@ -34,7 +34,7 @@ Your task for a given year will be to check which animal is the patron of the ye
 Input:
 In the first and only line of entry there is a single number n (1900 ≤ n ≤ 2030) denoting the year of the patron we are looking for.
 Output:
-One of the following words should be written (without Polish characters!): rat, ox, tiger, rabbit, dragon, snake, horse, sheep, monkey, rooster, dog, pig.
+One of the following words should be written: rat, ox, tiger, rabbit, dragon, snake, horse, sheep, monkey, rooster, dog, pig.
 
 Example:
 
