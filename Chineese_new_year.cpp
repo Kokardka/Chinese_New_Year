@@ -13,7 +13,7 @@ int main()
         || (n == 1984) || (n == 1996) || (n == 2008) || (n == 2020))
 
 
-    //cout << "word in: polish/english";
+    //cout << "Chineese New Year in: polish/english";
     cout << "szczur/rat";
 
     else if ((n == 1901) || (n == 1913) || (n == 1925) || (n == 1937)
@@ -80,7 +80,7 @@ int main()
         || (n == 1959) || (n == 1971) || (n == 1983)
         || (n == 1995) || (n == 2007) || (n == 2019) || (n == 2031))
 
-    cout << "swiniapig";
+    cout << "swinia/pig";
 
     return 0;
 }
