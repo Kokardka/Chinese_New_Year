@@ -1,4 +1,4 @@
-# math_exercises
+# math_exercise
 Chinese New Year
 
 The task is:
